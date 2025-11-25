@@ -12,7 +12,6 @@ export default function Index() {
         paddingHorizontal: 16,
       }}
     >
-      {/* Welcome Section */}
       <View
         style={{
           backgroundColor: "#667eea",
@@ -55,8 +54,6 @@ export default function Index() {
           Estudiante de Ingeniería en Informática
         </Text>
       </View>
-
-      {/* Quick Stats */}
       <Text
         style={{
           fontSize: 14,
@@ -125,8 +122,6 @@ export default function Index() {
           </Text>
         </View>
       </View>
-
-      {/* Courses Section */}
       <Text
         style={{
           fontSize: 14,
@@ -207,8 +202,6 @@ export default function Index() {
           </View>
         </View>
       ))}
-
-      {/* Upcoming Section */}
       <Text
         style={{
           fontSize: 14,
@@ -268,8 +261,6 @@ export default function Index() {
           />
         </View>
       ))}
-
-      {/* Footer */}
       <View
         style={{
           marginTop: 24,

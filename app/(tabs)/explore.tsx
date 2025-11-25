@@ -90,7 +90,6 @@ export default function Explore() {
         </Text>
       </View>
 
-      {/* Categories */}
       <Text
         style={{
           fontSize: 14,
@@ -133,8 +132,6 @@ export default function Explore() {
           </TouchableOpacity>
         ))}
       </View>
-
-      {/* Technical Skills */}
       <Text
         style={{
           fontSize: 14,
@@ -295,8 +292,6 @@ export default function Explore() {
           </View>
         </TouchableOpacity>
       ))}
-
-      {/* Footer CTA */}
       <TouchableOpacity
         style={{
           backgroundColor: "#667eea",

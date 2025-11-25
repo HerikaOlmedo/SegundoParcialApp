@@ -12,7 +12,6 @@ export default function Profile() {
         paddingHorizontal: 16,
       }}
     >
-      {/* Header Section */}
       <View
         style={{
           backgroundColor: "#667eea",
@@ -27,7 +26,6 @@ export default function Profile() {
           alignItems: "center",
         }}
       >
-        {/* Avatar */}
         <View
           style={{
             width: 100,
@@ -73,9 +71,6 @@ export default function Profile() {
           Olmedo Aguilera
         </Text>
       </View>
-
-      {/* Information Cards */}
-      {/* Email Card */}
       <View
         style={{
           backgroundColor: "#fff",
@@ -126,8 +121,6 @@ export default function Profile() {
           </Text>
         </View>
       </View>
-
-      {/* Career Card */}
       <View
         style={{
           backgroundColor: "#fff",
